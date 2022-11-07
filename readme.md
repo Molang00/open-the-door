@@ -18,6 +18,7 @@ relay module을 활용해 버튼을 연결한다.
 
 # References
 
+- [HOW TO SET UP A 5V RELAY ON THE ARDUINO](https://www.circuitbasics.com/setting-up-a-5v-relay-on-the-arduino/)
 - [Arduino 아두이노 인터넷 연결하기 - 이더넷(ethernet) 사용 방법](https://it-g-house.tistory.com/entry/Arduino-%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8-%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0-%EC%9D%B4%EB%8D%94%EB%84%B7ethernet-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95?category=736096)
 - [Ether Card Lib](https://github.com/njh/EtherCard)
 - [Interface ENC28J60 Ethernet Module with Arduino Webserver](https://how2electronics.com/interface-enc28j60-ethernet-module-with-arduino/)
